@@ -1,0 +1,8 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  cursor: url('/images/gate-of-india.png'), auto;
+}
+ video::-webkit-media-controls {
+      display: none;
+    }
